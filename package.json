@@ -1,6 +1,6 @@
 {
   "name": "auto-react-context",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "auto context creation ",
   "main": "index.js",
   "scripts": {
