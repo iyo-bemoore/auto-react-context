@@ -1,10 +1,11 @@
 {
   "name": "auto-react-context",
-  "version": "1.1.1",
-  "description": "auto context creation ",
-  "main": "index.js",
+  "version": "1.2.3",
+  "description": "auto context creation for react applications",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src/index.js --out-file dist/index.js"
   },
   "repository": {
     "type": "git",
@@ -17,13 +18,14 @@
   },
   "homepage": "https://github.com/2imad/react-auto-context#readme",
   "dependencies": {
-    "@babel/polyfill": "^7.10.4",
-    "react": "^16.13.1"
+    "@babel/polyfill": "^7.10.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
-    "babel-plugin-transform-react-jsx": "^6.24.1"
+    "@babel/preset-react": "^7.10.4",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "react": "^16.13.1"
   }
 }
