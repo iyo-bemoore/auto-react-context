@@ -1,0 +1,19 @@
+{
+  "name": "auto-react-context",
+  "version": "1.0.0",
+  "description": "auto context creation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/2imad/react-auto-context.git"
+  },
+  "author": "Imad Youssoufi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2imad/react-auto-context/issues"
+  },
+  "homepage": "https://github.com/2imad/react-auto-context#readme"
+}
