@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/2imad/react-auto-context/issues"
   },
-  "homepage": "https://github.com/2imad/react-auto-context#readme"
+  "homepage": "https://github.com/2imad/react-auto-context#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
