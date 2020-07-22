@@ -1,22 +1,22 @@
 {
   "name": "auto-react-context",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "auto context creation for react applications",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "scripts": {
     "build": "babel src/index.js --out-file dist/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/2imad/react-auto-context.git"
-  },
   "author": "Imad Youssoufi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/2imad/react-auto-context/issues"
   },
-  "homepage": "https://github.com/2imad/react-auto-context#readme",
+  "keywords": [
+    "React",
+    "Context",
+    "state"
+  ],
   "dependencies": {
     "@babel/polyfill": "^7.10.4"
   },

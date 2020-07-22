@@ -69,8 +69,7 @@ export const { Context, Provider } = createDataContext(
 );
 ```
 
-Now that we exported the Context and The Provider, let's use them:  
-
+Now that we exported the Context and The Provider, let's use them:
 
 **Provider**
 
