@@ -10,16 +10,13 @@
   "author": "Imad Youssoufi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/2imad/react-auto-context/issues"
+    "url": "https://github.com/2imad/auto-react-context/issues"
   },
   "keywords": [
     "React",
-    "Context",
+    "Context API",
     "state"
   ],
-  "dependencies": {
-    "@babel/polyfill": "^7.10.4"
-  },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
