@@ -84,7 +84,9 @@ import { Provider as BookProvider } from "./context/BookContext";
 function App() {
   return (
     <div className="App">
-      <BookProvider>// the rest of the components</BookProvider>
+      <BookProvider>
+       <OtherComponentsGoHere>
+      </BookProvider>
     </div>
   );
 }
